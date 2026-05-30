@@ -1,0 +1,28 @@
+{
+  "name": "research-to-midjourney",
+  "displayName": "Research to Midjourney",
+  "description": "AI-powered research assistant for deep concept exploration, metaphor discovery, historical context analysis, and intelligent Midjourney prompt generation",
+  "version": "1.0.0",
+  "author": "VikaKashynskaya",
+  "license": "MIT",
+  "homepage": "https://github.com/VikaKashynskaya/research-to-midjourney-skill",
+  "repository": "https://github.com/VikaKashynskaya/research-to-midjourney-skill",
+  "keywords": [
+    "research",
+    "midjourney",
+    "ai-prompts",
+    "conceptual-design",
+    "metaphor-discovery",
+    "creative-strategy",
+    "ai-skill",
+    "claude"
+  ],
+  "platforms": [
+    "claude",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "continue"
+  ],
+  "install": "git clone https://github.com/VikaKashynskaya/research-to-midjourney-skill.git"
+}
