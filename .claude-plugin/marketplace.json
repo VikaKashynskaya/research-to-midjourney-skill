@@ -1,0 +1,64 @@
+{
+  "id": "research-to-midjourney",
+  "name": "Research to Midjourney",
+  "version": "1.0.0",
+  "displayName": "Research to Midjourney",
+  "shortDescription": "AI-powered research assistant for deep concept exploration, metaphor discovery, visual style recommendations, and Midjourney prompt generation",
+  "description": "Transform technical briefs into comprehensive creative research. Discover metaphors, analyze historical context, recommend visual styles, and generate optimized Midjourney prompts for your projects.",
+  "author": "VikaKashynskaya",
+  "homepage": "https://github.com/VikaKashynskaya/research-to-midjourney-skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VikaKashynskaya/research-to-midjourney-skill"
+  },
+  "license": "MIT",
+  "icon": "🎨",
+  "category": "research",
+  "tags": [
+    "research",
+    "creative",
+    "midjourney",
+    "metaphor",
+    "design",
+    "ai-prompts",
+    "concept-development",
+    "visual-style"
+  ],
+  "capabilities": {
+    "conceptAnalysis": {
+      "description": "Deep analysis of project concepts, values, and differentiation",
+      "enabled": true
+    },
+    "metaphorDiscovery": {
+      "description": "Find powerful metaphors across nature, technology, art, history, and psychology",
+      "enabled": true
+    },
+    "historicalContext": {
+      "description": "Discover historical periods, movements, and precedents relevant to your project",
+      "enabled": true
+    },
+    "visualStyle": {
+      "description": "Recommend visual styles, color palettes, and mood based on research",
+      "enabled": true
+    },
+    "midjourneyPrompts": {
+      "description": "Generate optimized Midjourney prompts ready to use",
+      "enabled": true
+    }
+  },
+  "usage": {
+    "examples": [
+      "Research a modern fintech app that makes financial technology accessible to Gen Z",
+      "Deep research for a sustainable fashion brand with nature-inspired aesthetics",
+      "I need full research for a cybersecurity platform for gamers with visual style and MJ prompts"
+    ],
+    "instructions": "Describe your project, product, or concept. The skill will analyze it across 5 research domains and generate actionable insights plus Midjourney prompts."
+  },
+  "requirements": {
+    "python": "3.8+",
+    "dependencies": []
+  },
+  "pricing": "free",
+  "supportUrl": "https://github.com/VikaKashynskaya/research-to-midjourney-skill/issues",
+  "docsUrl": "https://github.com/VikaKashynskaya/research-to-midjourney-skill#readme"
+}
